@@ -1,0 +1,12 @@
+Place your drawn map image in this folder.
+
+Required recommended filename:
+
+    map.png
+
+Allowed alternatives:
+
+    map.jpg
+    map.jpeg
+
+Your README must embed the map image.
